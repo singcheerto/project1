@@ -2,11 +2,7 @@
 EEP 153: Sing Cheer To, Iris Yen, Siddarth Bamel
 
 ## Background and Project Introduction
-Both countries underwent many reforms following the Communist Revolution and Green Revolution.
-
-Write out the project intro in this paragraph! This should include a summary of our topic, interesting findings, and maybe highlights of our data. Should probably mention methods we used in data analysis. o hwateva. sth like that.
-
-## Population Function
+For Project 1, we decided to focus on how political movements and political stability relate to population trends in India and China. These two countries in particular have the highest total populations in the world, and comparing growth rates/population trends between them might help us understand the effects of various policies that have shaped these patterns. Our findings were primarily focused on agricultural and political policy, with their respective impacts on fertility rates and life expectancies.
 
 
 
